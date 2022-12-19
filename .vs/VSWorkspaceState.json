@@ -1,7 +1,10 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\Documentation",
+    "\\Model",
+    "\\Scene"
   ],
-  "SelectedNode": "\\README.md",
+  "SelectedNode": "\\Hello World.lua",
   "PreviewInSolutionExplorer": false
 }
