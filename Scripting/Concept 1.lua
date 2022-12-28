@@ -68,7 +68,7 @@ function CradleJoint(ui, id, newVal)
     local val = newVal * 0.01
     velocity = val
     -- Update the UI label to display the new velocity.
-    simUI.setLabelText(ui, 1, string.format("Cradle speed (rad/s): %.2f", val))
+    simUI.setLabelText(ui, 1, string.format("Cradle speed (m/s): %.2f", val))
 end
 
 -- This function is called by V-REP when the user clicks a UI button.

@@ -45,9 +45,9 @@ function sysCall_init()
                 <label text="Grab Position (m): 0.00" id="3"/>
                 <hslider tick-position="above" tick-interval="1" minimum="0" maximum="10" on-change="GrabActuator" id="4"/>
                 <label text="Hoist Position (m): 0.00" id="5"/>
-                <hslider tick-position="above" tick-interval="1" minimum="-10" maximum="0" on-change="HoistActuator" id="6"/>
+                <hslider tick-position="above" tick-interval="1" minimum="-20" maximum="0" on-change="HoistActuator" id="6"/>
                 <label text="Magnet" id="7"/>
-                <button text="Deactivated" on-click="MagnetActuator" checkable="true" id="8"/>
+                <button text="Deactivated" on-click="Magnet" checkable="true" id="8"/>
             </group>
             <label text="" style="* {margin-left: 400px;}"/>
         </ui>
@@ -58,7 +58,7 @@ end
 -- The ArmActuator function is called when the arm position slider is changed:
 function ArmActuator(ui, id, newVal)
     -- Convert the new slider value to a joint angle in degrees:
-    local val = newVal *36 
+    local val = newVal * 36 
     -- Set the target position of the arm actuator based on the new joint angle:
     sim.setJointTargetPosition(arm, val * math.pi / 180)
     -- Update the label text to show the new arm position:
@@ -70,7 +70,7 @@ function GrabActuator(ui, id, newVal)
     -- Convert the new slider value to a grab position in meters:
     local val = newVal * 0.65
     -- Set the target position of the grab actuator based on the new grab position:
-    sim.setJointTargetPosition(grab, math.deg(val))
+    sim.setJointTargetPosition(grab, val)
     -- Update the label text to show the new grab position:
     simUI.setLabelText(ui, 3, string.format("Grab position (m): %.2f", val))
 end
@@ -78,7 +78,7 @@ end
 -- The HoistActuator function is called when the hoist position slider is changed:
 function HoistActuator(ui, id, newVal)
     -- Convert the new slider value to a hoist position in meters:
-    local val = newVal * 0.6
+    local val = newVal * 0.3
     -- Set the target position of the hoist actuator based on the new hoist position:
     sim.setJointTargetPosition(hoist, val)
     -- Update the label text to show the new hoist position:
@@ -86,7 +86,7 @@ function HoistActuator(ui, id, newVal)
 end
 
 -- The MagnetActuator function is called when the magnet button is clicked:
-function MagnetActuator(ui)
+function Magnet(ui)
     -- Toggle the magnet between activated and deactivated:
     if enabled then
         enabled = false
@@ -99,7 +99,7 @@ function MagnetActuator(ui)
     end
 end
 
---The codes bellow are built in scripts of the suction cup
+--The codes below are part of the built in scripts of the suction cup
 function sysCall_cleanup() 
     sim.setLinkDummy(l,-1)
     sim.setObjectParent(l,b,true)

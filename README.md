@@ -1,3 +1,79 @@
-# AutoCradle
+<p align="center">
+<a href="https://amplication.com/#gh-light-mode-only">
+<img width="1000" src="Images/Bugaki-removebg.png">
+</a>
+</p>
+ 
+![1  Amplication main](Images/image-of-model-1.jpg)
 
-Parenthood is a time of joy for most parents but while it can be gratifying, there are countless struggles and obstacles along the way. A common struggle among new parents is dealing with their babies' unpredictable sleep schedules. Newborns often wake up and cry at night, especially when they are hungry or tired. However, this can lead to exhaustion for the parents who must get up and soothe their babies no matter how tired they are. Over time, this cycle of exhaustion make parenthood even more difficult. We propose a concept, dubbed "Autocradle," to help solve or at least ease these burdens. We envisioned a device that would automate the swinging motion of a cradle by detecting excessive movement or crying using a microphone and a motion sensor. Aside from that, we have plans to add other features down the line and if time allows such as: a feature that automatically turns on the lullaby tune, a water sensor at the bedding of the baby so that if the bed is wet parents can be notified, and a humidity sensor that can turn on a fan automatically to cool down the baby.
+"Autocradle" is a concept device designed to help parents with newborn babies by automating the swinging motion of a cradle and detecting crying or excessive movement using a microphone and motion sensor. The goal of the "Autocradle" is to provide some assistance to parents during the demanding and exhausting early months of parenthood by helping to soothe their babies and potentially providing some alerts for parents. In addition, you mentioned plans to add other features to the device in the future, such as a lullaby tune, a water sensor, and a humidity sensor. It will be interesting to see how the "Autocradle" concept develops and how it may be able to help parents with their newborns.
+
+
+# Features
+
+Amplication provides the following features:
+
+- 1
+- 2
+- 3
+- 4
+
+# Useful Links
+
+- [Docs](https://youtube.com/)
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+
+<!-- USAGE EXAMPLES -->
+## Usage
+
+Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
+
+_For more examples, please refer to the [Documentation](https://example.com)_
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- ROADMAP -->
+## Roadmap
+
+- [x] Lorem ipsum dolor sit amet
+- [ ] Donec luctus porta lobortis
+    - [ ] Sed sit amet facilisis ligula
+    - [ ] Phasellus mollis mauris id tellus tincidunt
+
+See the [open issues](https://github.com/othneildrew/Best-README-Template/issues) for a full list of proposed features (and known issues).
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- ACKNOWLEDGMENTS -->
+## Acknowledgments
+
+Use this space to list resources you find helpful and would like to give credit to. I've included a few of my favorites to kick things off!
+
+* [Choose an Open Source License](https://choosealicense.com)
+* [GitHub Emoji Cheat Sheet](https://www.webpagefx.com/tools/emoji-cheat-sheet)
+* [Img Shields](https://shields.io)
+* [GitHub Pages](https://pages.github.com)
+* [Font Awesome](https://fontawesome.com)
+
+
+<p align="right">(<a href="#README-top">back to top</a>)</p>
+
+# Contributors ✨
+<table>
+  <tbody>
+    <tr>
+      <td align="center"><a href="https://github.com/Ephemerish"><img src="https://avatars.githubusercontent.com/u/61376753?v=4?s=100" width="100px;" alt="Kenneth Harold Panis"/><br /><sub><b>Kenneth Harold Panis</b></sub></a><br /><a title="Code">💻</a> <a title="Documentation">📖</a></td>
+      <td align="center"><a href="https://github.com/Ephemerish"><img src="https://avatars.githubusercontent.com/u/71218434?v=4?s=100" width="100px;" alt="Roy Belkind"/><br /><sub><b>tbh</b></sub></a><br /><a title="Tests">⚠️</a> <a title="Bug reports">🐛</a> <a title="Code">💻</a></td> 
+      <td align="center"><a href="https://github.com/Ephemerish"><img src="https://avatars.githubusercontent.com/u/62651890?v=4?s=100" width="100px;" alt="Gal Cegla"/><br /><sub><b>Gal Cegla</b></sub></a><br /><a title="Tests">⚠️</a> <a title="Bug reports">🐛</a> <a title="Code">💻</a></td>
+      <td align="center"><a href="https://github.com/Ephemerish"><img src="https://avatars.githubusercontent.com/u/40050499?v=4?s=100" width="100px;" alt="Alon Ram"/><br /><sub><b>Alon Ram</b></sub></a><br /><a title="Code">💻</a> <a  title="Tests">⚠️</a> <a title="Bug reports">🐛</a> <a title="Content">🖋</a></td>
+      <td align="center"><a href="https://github.com/Ephemerish"><img src="https://avatars.githubusercontent.com/u/20791516?v=4?s=100" width="100px;" alt="meeroslava"/><br /><sub><b>meeroslava</b></sub></a><br /><a  title="Code">💻</a> <a  title="Tests">⚠️</a> <a  title="Bug reports">🐛</a> <a title="Content">🖋</a></td>
+    </tr>
+  </tbody>
+</table>
+
+<!-- markdownlint-restore -->
+<!-- prettier-ignore-end -->
+
+<!-- ALL-CONTRIBUTORS-LIST:END -->
+<p align="right">(<a href="#README-top">back to top</a>)</p>

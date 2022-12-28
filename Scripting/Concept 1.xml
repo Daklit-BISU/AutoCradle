@@ -1,6 +1,6 @@
 <ui title="Cradle Control" closeable="true" resizable="false" activate="false">
     <group layout="form" flat="true">
-        <label text="Cradle speed (rad/s): 0.00" id="1"/>
+        <label text="Cradle speed (m/s): 0.00" id="1"/>
         <hslider tick-position="above" tick-interval="1" minimum="0" maximum="10" on-change="CradleJoint" id="2"/>
         <label text="Cradle" id="7"/>
         <button text="Deactivated" on-click="switch" checkable="true" id="8"/>
