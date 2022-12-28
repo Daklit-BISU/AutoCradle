@@ -1,6 +1,6 @@
 <p align="center">
-<a href="Images/Bugaki-removebg.png">
-<img src="Images/Bugaki-removebg.png" alt="Automatic Baby Cradle"/>
+<a name="README-top" href="Images/Banner-removebg.png">
+<img src="Images/Banner-removebg.png" alt="Automatic Baby Cradle"/>
 </a>
 </p>
 
@@ -34,7 +34,7 @@ _For more examples, please refer to the [Documentation](https://example.com)_
 
 - [x] Lorem ipsum dolor sit amet
 - [ ] Donec luctus porta lobortis
-    - [ ] Sed sit amet facilisis ligula
+    - [x] Sed sit amet facilisis ligula
     - [ ] Phasellus mollis mauris id tellus tincidunt
 
 See the [open issues](https://github.com/othneildrew/Best-README-Template/issues) for a full list of proposed features (and known issues).
