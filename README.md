@@ -21,8 +21,6 @@ Amplication provides the following features:
 # Useful Links
 
 - [Docs](https://youtube.com/)
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 
 <!-- USAGE EXAMPLES -->
 ## Usage
@@ -30,8 +28,6 @@ Amplication provides the following features:
 Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
 
 _For more examples, please refer to the [Documentation](https://example.com)_
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- ROADMAP -->
 ## Roadmap
@@ -42,8 +38,6 @@ _For more examples, please refer to the [Documentation](https://example.com)_
     - [ ] Phasellus mollis mauris id tellus tincidunt
 
 See the [open issues](https://github.com/othneildrew/Best-README-Template/issues) for a full list of proposed features (and known issues).
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- ACKNOWLEDGMENTS -->
 ## Acknowledgments
@@ -64,16 +58,10 @@ Use this space to list resources you find helpful and would like to give credit 
   <tbody>
     <tr>
       <td align="center"><a href="https://github.com/Ephemerish"><img src="https://avatars.githubusercontent.com/u/61376753?v=4?s=100" width="100px;" alt="Kenneth Harold Panis"/><br /><sub><b>Kenneth Harold Panis</b></sub></a><br /><a title="Code">💻</a> <a title="Documentation">📖</a></td>
-      <td align="center"><a href="https://github.com/Ephemerish"><img src="https://avatars.githubusercontent.com/u/71218434?v=4?s=100" width="100px;" alt="Roy Belkind"/><br /><sub><b>tbh</b></sub></a><br /><a title="Tests">⚠️</a> <a title="Bug reports">🐛</a> <a title="Code">💻</a></td> 
-      <td align="center"><a href="https://github.com/Ephemerish"><img src="https://avatars.githubusercontent.com/u/62651890?v=4?s=100" width="100px;" alt="Gal Cegla"/><br /><sub><b>Gal Cegla</b></sub></a><br /><a title="Tests">⚠️</a> <a title="Bug reports">🐛</a> <a title="Code">💻</a></td>
-      <td align="center"><a href="https://github.com/Ephemerish"><img src="https://avatars.githubusercontent.com/u/40050499?v=4?s=100" width="100px;" alt="Alon Ram"/><br /><sub><b>Alon Ram</b></sub></a><br /><a title="Code">💻</a> <a  title="Tests">⚠️</a> <a title="Bug reports">🐛</a> <a title="Content">🖋</a></td>
-      <td align="center"><a href="https://github.com/Ephemerish"><img src="https://avatars.githubusercontent.com/u/20791516?v=4?s=100" width="100px;" alt="meeroslava"/><br /><sub><b>meeroslava</b></sub></a><br /><a  title="Code">💻</a> <a  title="Tests">⚠️</a> <a  title="Bug reports">🐛</a> <a title="Content">🖋</a></td>
+      <td align="center"><a href="https://github.com/Ephemerish"><img src="https://avatars.githubusercontent.com/u/71218434?v=4?s=100" width="100px;" alt="Roy Belkind"/><br /><sub><b>TBC</b></sub></a><br /><a title="Tests">⚠️</a> <a title="Bug reports">🐛</a> <a title="Code">💻</a></td> 
+      <td align="center"><a href="https://github.com/Ephemerish"><img src="https://avatars.githubusercontent.com/u/62651890?v=4?s=100" width="100px;" alt="Gal Cegla"/><br /><sub><b>TBC</b></sub></a><br /><a title="Tests">⚠️</a> <a title="Bug reports">🐛</a> <a title="Code">💻</a></td>
+      <td align="center"><a href="https://github.com/Ephemerish"><img src="https://avatars.githubusercontent.com/u/40050499?v=4?s=100" width="100px;" alt="Alon Ram"/><br /><sub><b>TBC</b></sub></a><br /><a title="Code">💻</a> <a  title="Tests">⚠️</a> <a title="Bug reports">🐛</a> <a title="Content">🖋</a></td>
+      <td align="center"><a href="https://github.com/Ephemerish"><img src="https://avatars.githubusercontent.com/u/20791516?v=4?s=100" width="100px;" alt="meeroslava"/><br /><sub><b>TBC</b></sub></a><br /><a  title="Code">💻</a> <a  title="Tests">⚠️</a> <a  title="Bug reports">🐛</a> <a title="Model">🗿</a></td>
     </tr>
   </tbody>
 </table>
-
-<!-- markdownlint-restore -->
-<!-- prettier-ignore-end -->
-
-<!-- ALL-CONTRIBUTORS-LIST:END -->
-<p align="right">(<a href="#README-top">back to top</a>)</p>
