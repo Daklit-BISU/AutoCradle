@@ -1,9 +1,9 @@
 <p align="center">
 <a href="https://amplication.com/#gh-light-mode-only">
-<img width="1000" src="Images/Bugaki-removebg.png">
+<img src="Images/Bugaki-removebg.png">
 </a>
 </p>
- 
+
 ![1  Amplication main](Images/image-of-model-1.jpg)
 
 "Autocradle" is a concept device designed to help parents with newborn babies by automating the swinging motion of a cradle and detecting crying or excessive movement using a microphone and motion sensor. The goal of the "Autocradle" is to provide some assistance to parents during the demanding and exhausting early months of parenthood by helping to soothe their babies and potentially providing some alerts for parents. In addition, you mentioned plans to add other features to the device in the future, such as a lullaby tune, a water sensor, and a humidity sensor. It will be interesting to see how the "Autocradle" concept develops and how it may be able to help parents with their newborns.
