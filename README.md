@@ -1,6 +1,6 @@
 <p align="center">
-<a href="https://amplication.com/#gh-light-mode-only">
-<img src="Images/Bugaki-removebg.png">
+<a href="Images/Bugaki-removebg.png">
+<img src="Images/Bugaki-removebg.png" alt="Automatic Baby Cradle"/>
 </a>
 </p>
 
@@ -57,7 +57,7 @@ Use this space to list resources you find helpful and would like to give credit 
 <table>
   <tbody>
     <tr>
-      <td align="center"><a href="https://github.com/Ephemerish"><img src="https://avatars.githubusercontent.com/u/61376753?v=4?s=100" width="100px;" alt="Kenneth Harold Panis"/><br /><sub><b>Kenneth Harold Panis</b></sub></a><br /><a title="Code">💻</a> <a title="Documentation">📖</a></td>
+      <td align="center"><a href="https://github.com/Ephemerish"><img src="https://avatars.githubusercontent.com/u/61376753?v=4?s=100" width="100px;" alt="Kenneth Harold Panis"/><br /><sub><b>Kenneth Harold Panis</b></sub></a><br /><a href="Scripting/" title="Code">💻</a> <a href="Documentation/"title="Documentation">📖</a></td>
       <td align="center"><a href="https://github.com/Ephemerish"><img src="https://avatars.githubusercontent.com/u/71218434?v=4?s=100" width="100px;" alt="Roy Belkind"/><br /><sub><b>TBC</b></sub></a><br /><a title="Tests">⚠️</a> <a title="Bug reports">🐛</a> <a title="Code">💻</a></td> 
       <td align="center"><a href="https://github.com/Ephemerish"><img src="https://avatars.githubusercontent.com/u/62651890?v=4?s=100" width="100px;" alt="Gal Cegla"/><br /><sub><b>TBC</b></sub></a><br /><a title="Tests">⚠️</a> <a title="Bug reports">🐛</a> <a title="Code">💻</a></td>
       <td align="center"><a href="https://github.com/Ephemerish"><img src="https://avatars.githubusercontent.com/u/40050499?v=4?s=100" width="100px;" alt="Alon Ram"/><br /><sub><b>TBC</b></sub></a><br /><a title="Code">💻</a> <a  title="Tests">⚠️</a> <a title="Bug reports">🐛</a> <a title="Content">🖋</a></td>
