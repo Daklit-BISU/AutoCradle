@@ -6,7 +6,7 @@ The "Autocradle" is a device designed to help parents with newborn babies by aut
 
 In addition to the core functionality of automating the swinging motion and detecting crying and movement, we have plans to add other features (if we can) to the device down the line, such as a lullaby tune, a water sensor to alert parents if the baby has wet the cradle, and a humidity sensor to ensure that the baby's environment is comfortable.
 
-# Implementation
+"Autocradle" is a concept device designed to help parents with newborn babies by automating the swinging motion of a cradle and detecting crying or excessive movement using a microphone and motion sensor. The goal of the "Autocradle" is to provide some assistance to parents during the demanding and exhausting early months of parenthood by helping to soothe their babies and potentially providing some alerts for parents. In addition, you mentioned plans to add other features to the device in the future, such as a lullaby tune, a water sensor, and a humidity sensor. It will be interesting to see how the "Autocradle" concept develops and how it may be able to help parents with their newborns.
 
 We have simulated our project using CoppeliaSim V-REP to test and refine the design and functionality of the "Autocradle".
 
