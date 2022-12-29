@@ -6,7 +6,7 @@ The "Autocradle" is a device designed to help parents with newborn babies by aut
 
 In addition to the core functionality of automating the swinging motion and detecting crying and movement, we have plans to add other features (if we can) to the device down the line, such as a lullaby tune, a water sensor to alert parents if the baby has wet the cradle, and a humidity sensor to ensure that the baby's environment is comfortable.
 
-"Autocradle" is a concept device designed to help parents with newborn babies by automating the swinging motion of a cradle and detecting crying or excessive movement using a microphone and motion sensor. The goal of the "Autocradle" is to provide some assistance to parents during the demanding and exhausting early months of parenthood by helping to soothe their babies and potentially providing some alerts for parents. In addition, you mentioned plans to add other features to the device in the future, such as a lullaby tune, a water sensor, and a humidity sensor. It will be interesting to see how the "Autocradle" concept develops and how it may be able to help parents with their newborns.
+# Implementation
 
 We have simulated our project using CoppeliaSim V-REP to test and refine the design and functionality of the "Autocradle".
 
@@ -62,7 +62,7 @@ Use this space to list resources you find helpful and would like to give credit 
 <table>
   <tbody>
     <tr>
-      <td align="center"><a href="https://github.com/Ephemerish"><img src="https://avatars.githubusercontent.com/u/61376753?v=4?s=100" width="100px;" alt="Kenneth Harold Panis"/><br /><sub><b>Kenneth Harold Panis</b></sub></a><br /><a href="Scripting/" title="Code">💻</a> <a href="Documentation/"title="Documentation">📖</a></td>
+      <td align="center"><a href="https://github.com/Ephemerish"><img src="https://avatars.githubusercontent.com/u/61376753?v=4?s=100" width="100px;" alt="Kenneth Harold Panis"/><br /><sub><b>Kenneth Harold Panis</b></sub></a><br /><a href="Scripts/" title="Scripting">💻</a> <a href="Documents/"title="Documentation">📖</a></td>
       <td align="center"><a href="https://github.com/Ephemerish"><img src="https://avatars.githubusercontent.com/u/71218434?v=4?s=100" width="100px;" alt="Roy Belkind"/><br /><sub><b>TBC</b></sub></a><br /><a title="Tests">⚠️</a> <a title="Bug reports">🐛</a> <a title="Code">💻</a></td> 
       <td align="center"><a href="https://github.com/Ephemerish"><img src="https://avatars.githubusercontent.com/u/62651890?v=4?s=100" width="100px;" alt="Gal Cegla"/><br /><sub><b>TBC</b></sub></a><br /><a title="Tests">⚠️</a> <a title="Bug reports">🐛</a> <a title="Code">💻</a></td>
       <td align="center"><a href="https://github.com/Ephemerish"><img src="https://avatars.githubusercontent.com/u/40050499?v=4?s=100" width="100px;" alt="Alon Ram"/><br /><sub><b>TBC</b></sub></a><br /><a title="Code">💻</a> <a  title="Tests">⚠️</a> <a title="Bug reports">🐛</a> <a title="Content">🖋</a></td>
