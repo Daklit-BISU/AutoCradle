@@ -1,15 +1,16 @@
-<p align="center">
-<a name="README-top" href="Images/Banner-removebg.png">
-<img src="Images/Banner-removebg.png" alt="Automatic Baby Cradle"/>
-</a>
-</p>
+<p align="center"><a name="README-top" href="Images/Banner-removebg.png"> <img src="Images/Banner-removebg.png" alt="Automatic Baby Cradle"/> </a> </p>
 
-![1  Amplication main](Images/image-of-model-1.jpg)
+![Model image](Images/image-of-model-1.jpg)
 
-"Autocradle" is a concept device designed to help parents with newborn babies by automating the swinging motion of a cradle and detecting crying or excessive movement using a microphone and motion sensor. The goal of the "Autocradle" is to provide some assistance to parents during the demanding and exhausting early months of parenthood by helping to soothe their babies and potentially providing some alerts for parents. In addition, you mentioned plans to add other features to the device in the future, such as a lullaby tune, a water sensor, and a humidity sensor. It will be interesting to see how the "Autocradle" concept develops and how it may be able to help parents with their newborns.
+The "Autocradle" is a device designed to help parents with newborn babies by automating the swinging motion of a cradle and detecting crying or excessive movement using a microphone and motion sensor. The goal of the "Autocradle" is to provide some assistance to parents during the demanding and exhausting early months of parenthood by helping to soothe their babies and potentially providing some alerts for parents.
 
+In addition to the core functionality of automating the swinging motion and detecting crying and movement, we have plans to add other features (if we can) to the device down the line, such as a lullaby tune, a water sensor to alert parents if the baby has wet the cradle, and a humidity sensor to ensure that the baby's environment is comfortable.
 
-# Features
+# Implementation
+
+We have simulated our project using CoppeliaSim V-REP to test and refine the design and functionality of the "Autocradle".
+
+# Key Features
 
 Amplication provides the following features:
 
@@ -18,9 +19,13 @@ Amplication provides the following features:
 - 3
 - 4
 
+# Safety and reliability
+
+The "Autocradle" has been designed with safety and reliability in mind. All components and materials used in the device have been carefully selected to meet appropriate safety standards, and the device has been thoroughly tested in simulation to ensure that it works as intended.
+
 # Useful Links
 
-- [Docs](https://youtube.com/)
+- [Docs](https://example.com)
 
 <!-- USAGE EXAMPLES -->
 ## Usage
@@ -53,7 +58,7 @@ Use this space to list resources you find helpful and would like to give credit 
 
 <p align="right">(<a href="#README-top">back to top</a>)</p>
 
-# Contributors ✨
+  # Contributors ✨
 <table>
   <tbody>
     <tr>
