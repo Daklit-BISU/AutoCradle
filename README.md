@@ -1,6 +1,6 @@
-<p align="center"><a name="README-top" href="Images/Banner-removebg.png"> <img src="Images/Banner-removebg.png" alt="Automatic Baby Cradle"/> </a> </p>
+<p align="center"><a name="README-top" href="Images/title-banner-removebg.png"> <img src="Images/title-banner-removebg.png" alt="Automatic Baby Cradle"/> </a> </p>
 
-![Model image](Images/image-of-model-1.jpg)
+![Model image](Images/image-model-1.jpg)
 
 The "Autocradle" is a device designed to help parents with newborn babies by automating the swinging motion of a cradle and detecting crying or excessive movement using a microphone and motion sensor. The goal of the "Autocradle" is to provide some assistance to parents during the demanding and exhausting early months of parenthood by helping to soothe their babies and potentially providing some alerts for parents.
 
