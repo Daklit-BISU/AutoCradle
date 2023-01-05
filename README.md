@@ -1,4 +1,4 @@
-<p align="center"><a name="README-top" href="Images/title-banner-removebg.png"> <img src="Images/title-banner-removebg.png" alt="Automatic Baby Cradle"/> </a> </p>
+<p align="center"><a name="README-top" href="Images/title-banner-removebg.pmg"> <img src="Images/title-banner-removebg.png" alt="Automatic Baby Cradle"/> </a> </p>
 
 ![Model image](Images/image-model-1.jpg)
 
