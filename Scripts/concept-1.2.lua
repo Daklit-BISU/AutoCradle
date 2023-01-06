@@ -15,7 +15,7 @@ function sysCall_init()
                 <label text="Cradle max position (m): 0.00" id="1"/>
                 <hslider tick-position="above" tick-interval="1" minimum="0" maximum="10" on-change="Position" id="2"/>
                 <label text="Cradle velocity" id="3"/>
-                <label text="0.10 (m/s)" id="4"/>
+                <label text="                   0.10 (m/s)" id="4"/>
                 <label text="Cradle" id="7"/>
                 <button text="Deactivated" on-click="switch" checkable="true" id="8"/>
             </group>
