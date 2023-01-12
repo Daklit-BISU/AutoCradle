@@ -31,9 +31,9 @@ function sysCall_init()
 end
 
 function sysCall_sensing()
-    result,distance=sim.readProximitySensor(sensorHandle)
+    detected,distance=sim.readProximitySensor(sensorHandle)
     -- update the graph with the sensor's distance
-    if (result>0) then
+    if (detected>0) then
         sim.setGraphStreamValue(graphHandle,graphStream,distance)
     end
 end
@@ -55,24 +55,18 @@ end
 -- It contains the main loop of the script, which sets the joint target position to oscillate
 -- between a positive and negative value.
 function coroutineMain()
-    -- Initialize the "previous_time" variable.
-    previous_time = 0
-    
     -- Initialize the "enabled" and "position" variables.
     enabled = false
-    waitTime = 15
     
     -- Get the current target position and velocity of the "Cradle_Joint" joint.
-    position = sim.getJointTargetPosition(cradle)
+    position = 0
     velocity = 0.1
-    
-    local detected
     -- The main loop of the script.
     while true do
         -- Check if the "enabled" variable is true.
         while enabled do
             -- Check if the "enabled" variable is true.
-            while not(result>0) do
+            while not(detected>0) do
                 -- Set the joint target position to the current "position" variable value.
                 sim.setJointTargetPosition(cradle, position)
             
