@@ -6,9 +6,10 @@ function sysCall_init()
     -- Get the handles to the cradle simulation
     cradle = sim.getObjectHandle('Cradle_Joint')
     sensorHandle=sim.getObject('/sensor')
+    sensorHandle2=sim.getObject('/sensor[1]')
     graphHandle=sim.getObject("/Graph")
     graphStream=sim.addGraphStream(graphHandle,'Pyramid type proximity sensor','m',0,{0,1,0})
-
+    graphStream2=sim.addGraphStream(graphHandle,'(in)Pyramid type proximity sensor','m',0,{0,0.5,1})
     -- A coroutine is a special kind of function that can be paused and resumed.
     -- They are useful for creating long-running processes that don't block the main program.
     -- Create a coroutine and start it.
@@ -32,9 +33,13 @@ end
 
 function sysCall_sensing()
     detected,distance=sim.readProximitySensor(sensorHandle)
+    detected2,distance2=sim.readProximitySensor(sensorHandle2)
     -- update the graph with the sensor's distance
     if (detected>0) then
         sim.setGraphStreamValue(graphHandle,graphStream,distance)
+    end
+    if (detected2>0) then
+        sim.setGraphStreamValue(graphHandle,graphStream2,distance2)
     end
 end
 
@@ -66,7 +71,7 @@ function coroutineMain()
         -- Check if the "enabled" variable is true.
         while enabled do
             -- Check if the "enabled" variable is true.
-            while not(detected>0) do
+            while not(detected>0) and not(detected2>0) do
                 -- Set the joint target position to the current "position" variable value.
                 sim.setJointTargetPosition(cradle, position)
             
