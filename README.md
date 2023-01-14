@@ -61,9 +61,9 @@ Use this space to list resources you find helpful and would like to give credit 
   <tbody>
     <tr>
       <td align="center"><a href="https://github.com/Ephemerish"><img src="https://avatars.githubusercontent.com/u/61376753?v=4?s=100" width="100px;" alt="Kenneth Harold Panis"/><br /><sub><b>Kenneth Harold Panis</b></sub></a><br /><a href="Scripts/" title="Scripting">💻</a></td>
-      <td align="center"><a href="https://github.com/Ephemerish"><img src="https://avatars.githubusercontent.com/u/71218434?v=4?s=100" width="100px;" alt="Roy Belkind"/><br /><sub><b>TBC</b></sub></a><br /><a title="Tests">⚠️</a> <a title="Bug reports">🐛</a> <a href="Documents/"title="Documentation">📖</a></td> 
-      <td align="center"><a href="https://github.com/Ephemerish"><img src="https://avatars.githubusercontent.com/u/62651890?v=4?s=100" width="100px;" alt="Gal Cegla"/><br /><sub><b>TBC</b></sub></a><br /><a title="Tests">⚠️</a> <a title="Bug reports">🐛</a> <a href="Documents/"title="Documentation">📖</a></td>
-      <td align="center"><a href="https://github.com/Ephemerish"><img src="https://avatars.githubusercontent.com/u/20791516?v=4?s=100" width="100px;" alt="meeroslava"/><br /><sub><b>TBC</b></sub></a><br /><a  title="Code">💻</a> <a  title="Tests">⚠️</a> <a  title="Bug reports">🐛</a> <a title="Model">🗿</a></td>
+      <td align="center"><a href="https://github.com/Ephemerish"><img src="https://avatars.githubusercontent.com/u/61376753?v=4?s=100" width="100px;" alt="Lloyd Burton"/><br /><sub><b>Lloyd Burton</b></sub></a><br /><a title="Tests">⚠️</a> <a title="Bug reports">🐛</a> <a href="Documents/"title="Documentation">📖</a></td> 
+      <td align="center"><a href="https://github.com/Ephemerish"><img src="https://avatars.githubusercontent.com/u/61376753?v=4?s=100" width="100px;" alt="Lyca Lague"/><br /><sub><b>Lyca Lague</b></sub></a><br /><a title="Tests">⚠️</a> <a title="Bug reports">🐛</a> <a href="Documents/"title="Documentation">📖</a></td>
+      <td align="center"><a href="https://github.com/Ephemerish"><img src="https://avatars.githubusercontent.com/u/61376753?v=4?s=100" width="100px;" alt="Crisha Mae Acasio"/><br /><sub><b>Crisha Mae Acasio</b></sub></a><br /><a  title="Code">💻</a> <a  title="Tests">⚠️</a> <a  title="Bug reports">🐛</a> <a title="Model">🗿</a></td>
     </tr>
   </tbody>
 </table>
